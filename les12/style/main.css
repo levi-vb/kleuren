@@ -1,0 +1,61 @@
+header{
+    width: 1500px; height: 150px; background-color: aqua;
+}
+.tabel{
+    border: 10px;
+    border-color: black;
+}
+body{
+    background-color: #ccffff;
+}
+footer{
+    width: 1500px; height: 150px; background-color: aqua;
+}
+.cel1{
+    background-color: grey;
+}
+.cel2{
+    background-color: aliceblue;
+}
+.cel3{
+    background-color: beige;
+}
+.cel4{
+    background-color: chartreuse;
+}
+.cel5{
+    background-color: blanchedalmond;
+}
+.cel6{
+    background-color: chocolate;
+}
+.cel7{
+    background-color: cyan;
+}
+.cel8{
+    background-color: darkkhaki;
+}
+.cel9{
+    background-color: darkred;
+}
+.cel10{
+    background-color: blueviolet;
+}
+.cel11{
+    background-color: darkslategrey;
+}
+.cel12{
+    background-color: deeppink;
+}
+.cel13{
+    background-color: darkturquoise;
+}
+.cel14{
+    background-color: darkkhaki;
+}
+.cel15{
+    background-color: limegreen;
+}
+.cel16{
+    background-color: navy;
+}
